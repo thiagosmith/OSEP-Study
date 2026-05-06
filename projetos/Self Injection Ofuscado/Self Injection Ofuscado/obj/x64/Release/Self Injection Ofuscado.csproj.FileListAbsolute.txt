@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Self Injection Ofuscado\Self Injection Ofuscado\obj\x64\Release\Self Injection Ofuscado.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Self Injection Ofuscado\Self Injection Ofuscado\obj\x64\Release\Self Injection Ofuscado.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Self Injection Ofuscado\Self Injection Ofuscado\bin\x64\Release\Self Injection Ofuscado.exe.config
+C:\Users\Administrator\source\repos\Self Injection Ofuscado\Self Injection Ofuscado\bin\x64\Release\Self Injection Ofuscado.exe
+C:\Users\Administrator\source\repos\Self Injection Ofuscado\Self Injection Ofuscado\bin\x64\Release\Self Injection Ofuscado.pdb
+C:\Users\Administrator\source\repos\Self Injection Ofuscado\Self Injection Ofuscado\obj\x64\Release\Self Injection Ofuscado.exe
+C:\Users\Administrator\source\repos\Self Injection Ofuscado\Self Injection Ofuscado\obj\x64\Release\Self Injection Ofuscado.pdb
+C:\Users\Administrator\source\repos\Self Injection Ofuscado\Self Injection Ofuscado\obj\x64\Release\Self Injection Ofuscado.exe.config
