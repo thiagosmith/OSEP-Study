@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\Jscript Runner\Jscript Runner\bin\x86\Release\Jscript Runner.dll
+C:\Users\Administrator\source\repos\Jscript Runner\Jscript Runner\bin\x86\Release\Jscript Runner.pdb
+C:\Users\Administrator\source\repos\Jscript Runner\Jscript Runner\obj\x86\Release\Jscript Runner.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Jscript Runner\Jscript Runner\obj\x86\Release\Jscript Runner.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Jscript Runner\Jscript Runner\obj\x86\Release\Jscript Runner.dll
+C:\Users\Administrator\source\repos\Jscript Runner\Jscript Runner\obj\x86\Release\Jscript Runner.pdb
