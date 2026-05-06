@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Hollow\Hollow\bin\x64\Release\Hollow.exe.config
+C:\Users\Administrator\source\repos\Hollow\Hollow\bin\x64\Release\Hollow.exe
+C:\Users\Administrator\source\repos\Hollow\Hollow\bin\x64\Release\Hollow.pdb
+C:\Users\Administrator\source\repos\Hollow\Hollow\obj\x64\Release\Hollow.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Hollow\Hollow\obj\x64\Release\Hollow.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Hollow\Hollow\obj\x64\Release\Hollow.exe
+C:\Users\Administrator\source\repos\Hollow\Hollow\obj\x64\Release\Hollow.pdb
+C:\Users\Administrator\source\repos\Hollow\Hollow\obj\x64\Release\Hollow.exe.config
