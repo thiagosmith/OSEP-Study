@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Self Injection\Self Injection\obj\x64\Release\Self Injection.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Self Injection\Self Injection\obj\x64\Release\Self Injection.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Self Injection\Self Injection\bin\x64\Release\Self Injection.exe.config
+C:\Users\Administrator\source\repos\Self Injection\Self Injection\bin\x64\Release\Self Injection.exe
+C:\Users\Administrator\source\repos\Self Injection\Self Injection\bin\x64\Release\Self Injection.pdb
+C:\Users\Administrator\source\repos\Self Injection\Self Injection\obj\x64\Release\Self Injection.exe
+C:\Users\Administrator\source\repos\Self Injection\Self Injection\obj\x64\Release\Self Injection.pdb
