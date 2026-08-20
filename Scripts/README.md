@@ -380,7 +380,7 @@ End Sub
 
 ## Webserve em Python para dropper
 
-Creação do diretório:
+Criação do diretório:
 ```
 sudo mkdir /opt/tools
 ```
